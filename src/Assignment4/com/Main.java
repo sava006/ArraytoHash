@@ -5,6 +5,9 @@ import java.util.Set;
 
 public class Main {
 
+//Consider keys = name of lakes ;  values = ArrayList<Double>   - list of times for that lake
+
+
     public static void main(String[] args) {
         // write your code here
         //enter values  with the two scanner classes
